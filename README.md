@@ -16,6 +16,9 @@ https://medium.com/@rathod.ajay10/senior-java-developer-interview-series-5-quest
 
 https://medium.com/@s.akshat6262/java-interview-ready-cheatsheet-for-sde-1-221673dda8dd
 
+System Design Interview:
+https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html
+
 
 Git Cheat Sheet:
 https://twitter.com/javarevisited/status/1535127698644668417?cxt=HBwWgsCgqcWg780qAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
