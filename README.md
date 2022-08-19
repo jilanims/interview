@@ -6,6 +6,10 @@ Performance Issues In Java:
 https://medium.com/elca-it/tools-to-detect-performance-issues-in-java-web-applications-2a9875bd78db
 
 
+DataStructure Interview questions:
+
+https://twitter.com/javinpaul/status/1559756318885437440?cxt=HBwWgICztfWGr6UrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+
 Java:
 
 https://medium.com/geekculture/java-backend-developer-interview-questions-pt-1-10-1c74c76442bd
