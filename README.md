@@ -28,6 +28,10 @@ https://medium.com/@s.akshat6262/java-interview-ready-cheatsheet-for-sde-1-22167
 System Design Interview:
 https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html
 
+Equals Method In Java https://medium.com/@javabackend175/equals-method-in-java-34ff82f1180
+Shallo Comparision : the default implementation of equals method is defined in Java.lang.Object class which simply checks if two Object references (say x and y) refer to the same Object.
+Deep Comparision:Suppose a class provides its own implementation of equals() method in order to compare the Objects of that class w.r.t state of the Objects. That means data members (i.e. fields) of Objects are to be compared with one another.
+
 
 Git Cheat Sheet:
 https://twitter.com/javarevisited/status/1535127698644668417?cxt=HBwWgsCgqcWg780qAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
